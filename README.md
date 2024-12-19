@@ -25,3 +25,6 @@ python ./tools/detection/train.py \
 python ./tools/detection/test.py \
     configs/detection/fsce/voc/split1/fsce_r101_fpn_voc-split1_1shot-fine-tuning_seed0_separating.py
 
+# Acknowledgement
+MMDetection: https://github.com/open-mmlab/mmdetection
+FSCE: https://github.com/megvii-research/FSCE

@@ -3,7 +3,7 @@ Enhancing Few-Shot Object Detection through Mixing and Separating Tuning Strateg
 ## How to reproduce Mixing_Separating
 
 # Data preparation
-The data that support the findings of this study are available in at \url{http://host.robots.ox.ac.uk/pascal/VOC/} and \url{https://cocodataset.org/}.
+The data that support the findings of this study are available at http://host.robots.ox.ac.uk/pascal/VOC/ and https://cocodataset.org/.
 
 Following the original implementation, it consists of 2 steps:
 
